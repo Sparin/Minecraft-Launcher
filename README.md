@@ -1,1 +1,1 @@
-# Sparin.Minecraft.Launcher
+# Minecraft Launcher
