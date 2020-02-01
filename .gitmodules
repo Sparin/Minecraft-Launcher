@@ -1,0 +1,3 @@
+[submodule "src/modules/dotMCLauncher"]
+	path = src/modules/dotMCLauncher
+	url = https://github.com/dedepete/dotMCLauncher
